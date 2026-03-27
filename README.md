@@ -52,10 +52,17 @@ Deploy the model as an interactive dashboard for marketing teams.
 
 ## Tools & Technologies
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
+
 SHAP / LIME
+
 Jupyter Notebook
