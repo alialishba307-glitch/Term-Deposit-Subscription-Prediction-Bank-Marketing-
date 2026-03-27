@@ -33,7 +33,7 @@ Applied SHAP or LIME to explain individual predictions.
 Analyzed at least five predictions to understand feature contributions.
 Identified key drivers influencing customer subscription decisions.
 
-## nResults & Insights
+## Results & Insights
 Customer interaction features such as contact duration and previous campaign outcomes significantly influenced subscription likelihood.
 Demographic and financial attributes contributed to model predictions but with varying importance.
 Random Forest provided better performance by capturing complex relationships, while Logistic Regression offered interpretability.
